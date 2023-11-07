@@ -5,7 +5,7 @@ import requests
 from brainflow.board_shim import BoardShim, BrainFlowInputParams, LogLevels, BoardIds
 from brainflow.data_filter import DataFilter
 
-
+#Hi :) 
 class bciConnection():
 
     def read_from_board(self):
